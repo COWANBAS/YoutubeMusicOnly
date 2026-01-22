@@ -2,7 +2,7 @@
 // @name          Youtube Music Only
 // @description   Faz com que o YouTube Music seja apenas músicas.
 // @namespace     CowanMUSIC
-// @license       CowBas
+// @license       GPL-3.0
 // @version       1.0
 // @author        Cowanbas
 // @match         *://music.youtube.com/*
@@ -61,3 +61,4 @@
 
   removerVideoEAjustarCor();
 })();
+
